@@ -1,0 +1,15 @@
+{"id": "T01", "rules_reason": "rule5_billing", "rules": {"route": "billing", "action": "reply", "priority": "normal"}, "llm": {"route": "billing", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T02", "rules_reason": "rule5_billing", "rules": {"route": "billing", "action": "reply", "priority": "normal"}, "llm": {"route": "billing", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T03", "rules_reason": "rule5_billing", "rules": {"route": "billing", "action": "reply", "priority": "normal"}, "llm": {"route": "billing", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T04", "rules_reason": "rule4_access_change", "rules": {"route": "access", "action": "verify_identity", "priority": "normal"}, "source": "rules", "llm": null}
+{"id": "T05", "rules_reason": "rule4_access_troubleshooting", "rules": {"route": "access", "action": "reply", "priority": "normal"}, "llm": {"route": "access", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T06", "rules_reason": "rule4_access_change", "rules": {"route": "access", "action": "verify_identity", "priority": "normal"}, "source": "rules", "llm": null}
+{"id": "T07", "rules_reason": "rule3_privacy_rights", "rules": {"route": "privacy", "action": "verify_identity", "priority": "normal"}, "source": "rules", "llm": null}
+{"id": "T08", "rules_reason": "rule3_privacy_question", "rules": {"route": "privacy", "action": "reply", "priority": "normal"}, "llm": {"route": "privacy", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T09", "rules_reason": "rule2_third_party", "rules": {"route": "privacy", "action": "refuse", "priority": "normal"}, "source": "rules", "llm": null}
+{"id": "T10", "rules_reason": "rule1_incident", "rules": {"route": "safety", "action": "escalate", "priority": "urgent"}, "source": "rules", "llm": null}
+{"id": "T11", "rules_reason": "rule1_incident", "rules": {"route": "safety", "action": "escalate", "priority": "urgent"}, "source": "rules", "llm": null}
+{"id": "T12", "rules_reason": "rule6_general", "rules": {"route": "general", "action": "reply", "priority": "normal"}, "llm": {"route": "general", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T13", "rules_reason": "rule5_billing", "rules": {"route": "billing", "action": "reply", "priority": "normal"}, "llm": {"route": "billing", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T14", "rules_reason": "rule5_billing", "rules": {"route": "billing", "action": "reply", "priority": "normal"}, "llm": {"route": "billing", "action": "reply", "priority": "normal"}, "source": "agree"}
+{"id": "T15", "rules_reason": "rule3_privacy_rights", "rules": {"route": "privacy", "action": "verify_identity", "priority": "normal"}, "source": "rules", "llm": null}

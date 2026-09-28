@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-09-28T16:25:16+00:00",
+  "mode": "hybrid",
+  "cases": "cases.jsonl",
+  "tickets": 15,
+  "elapsed_seconds": 116.82,
+  "python": "3.11.1",
+  "platform": "Windows-10-10.0.22000-SP0",
+  "dependencies": "standard library only",
+  "provider_base_url": "https://api.groq.com/openai/v1",
+  "model": "openai/gpt-oss-120b",
+  "temperature": 0.0,
+  "prompt_file": "candidate_prompt.md",
+  "prompt_sha256_12": "ee04b3242c11",
+  "usage": {
+    "calls": 8,
+    "retries": 0,
+    "prompt_tokens": 8342,
+    "completion_tokens": 1115,
+    "total_tokens": 9457,
+    "api_seconds": 11.78,
+    "rate_limit_wait_seconds": 0.0
+  },
+  "hybrid_sources": {
+    "agree": 8,
+    "rules": 7
+  }
+}
